@@ -478,6 +478,85 @@ img {
   letter-spacing: 0.02em;
 }
 
+.about-services-section {
+  padding-top: 56px;
+}
+
+.about-services-layout {
+  display: grid;
+  grid-template-columns: minmax(260px, 0.42fr) minmax(0, 0.58fr);
+  gap: 56px;
+  align-items: start;
+}
+
+.about-services-copy {
+  position: sticky;
+  top: 104px;
+}
+
+.about-services-copy h2 {
+  margin-bottom: 18px;
+}
+
+.about-services-copy > p:not(.section-kicker) {
+  max-width: 560px;
+  margin: 0 0 28px;
+  color: #4a4a4a;
+  font-size: 1.05rem;
+  line-height: 1.78;
+}
+
+.about-services-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.about-service-card {
+  min-height: 230px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  background: #fff;
+  border: 1px solid rgba(17, 17, 17, 0.08);
+  border-radius: 8px;
+  transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+
+.about-service-card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(150, 191, 72, 0.42);
+  background: #fbfbfb;
+}
+
+.about-service-card span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  margin-bottom: auto;
+  border-radius: 999px;
+  background: #f4f4f4;
+  color: #96BF48;
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+
+.about-service-card h3 {
+  margin: 34px 0 12px;
+  color: #111;
+  font-size: 1.35rem;
+  line-height: 1.15;
+}
+
+.about-service-card p {
+  margin: 0;
+  color: #4a4a4a;
+  font-size: 0.98rem;
+  line-height: 1.7;
+}
+
 .faq-section {
   padding-top: 56px;
 }
@@ -1095,6 +1174,15 @@ img {
     gap: 28px;
   }
 
+  .about-services-layout {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+
+  .about-services-copy {
+    position: static;
+  }
+
   .faq-intro {
     position: static;
   }
@@ -1195,6 +1283,23 @@ img {
   .service-card {
     min-height: 0;
     padding: 22px;
+  }
+
+  .about-services-section {
+    padding-top: 40px;
+  }
+
+  .about-services-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .about-service-card {
+    min-height: 0;
+    padding: 22px;
+  }
+
+  .about-service-card h3 {
+    margin-top: 28px;
   }
 
   .service-number {
