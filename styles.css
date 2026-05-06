@@ -1130,6 +1130,11 @@ img {
   line-height: 1.75;
 }
 
+.home-faq-section {
+  padding-top: 56px;
+  border-top: 1px solid rgba(17, 17, 17, 0.06);
+}
+
 .hero-cta.outline {
   border: 1px solid #111;
   background: transparent;
