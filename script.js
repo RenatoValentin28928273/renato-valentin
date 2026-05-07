@@ -113,4 +113,41 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   }
+
+  // Submenu toggle
+  document.querySelectorAll('.submenu-toggle').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const li = btn.closest('.has-submenu');
+      const isOpen = li.classList.contains('submenu-open');
+      document.querySelectorAll('.has-submenu.submenu-open').forEach(el => {
+        el.classList.remove('submenu-open');
+        el.querySelector('.submenu-toggle').setAttribute('aria-expanded', 'false');
+      });
+      if (!isOpen) {
+        li.classList.add('submenu-open');
+        btn.setAttribute('aria-expanded', 'true');
+      }
+    });
+  });
+
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.has-submenu')) {
+      document.querySelectorAll('.has-submenu.submenu-open').forEach(el => {
+        el.classList.remove('submenu-open');
+        const toggle = el.querySelector('.submenu-toggle');
+        if (toggle) toggle.setAttribute('aria-expanded', 'false');
+      });
+    }
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      document.querySelectorAll('.has-submenu.submenu-open').forEach(el => {
+        el.classList.remove('submenu-open');
+        const toggle = el.querySelector('.submenu-toggle');
+        if (toggle) toggle.setAttribute('aria-expanded', 'false');
+      });
+    }
+  });
 });
