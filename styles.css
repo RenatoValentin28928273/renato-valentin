@@ -1775,16 +1775,17 @@ img {
     transform: none;
     box-shadow: none;
     border: none;
-    border-left: 2px solid rgba(150, 191, 72, 0.5);
     border-radius: 0;
     padding: 4px 0;
-    margin: 6px 0 4px 12px;
+    margin: 6px 0 4px;
     background: transparent;
     opacity: 0;
     visibility: hidden;
     max-height: 0;
     overflow: hidden;
     transition: opacity 0.2s ease, max-height 0.3s ease, visibility 0s 0.3s;
+    text-align: center;
+    width: 100%;
   }
 
   .has-submenu.submenu-open .submenu {
@@ -1798,6 +1799,7 @@ img {
     color: rgba(255, 255, 255, 0.7) !important;
     padding: 8px 14px;
     font-size: 0.85rem;
+    justify-content: center;
   }
 
   .submenu a:hover,
