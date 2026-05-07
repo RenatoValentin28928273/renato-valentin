@@ -1800,6 +1800,8 @@ img {
     padding: 8px 14px;
     font-size: 0.85rem;
     justify-content: center;
+    white-space: normal;
+    text-align: center;
   }
 
   .submenu a:hover,
