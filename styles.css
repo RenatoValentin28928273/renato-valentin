@@ -1718,15 +1718,15 @@ img {
 
 .submenu {
   position: absolute;
-  top: calc(100% + 12px);
+  top: calc(100% + 14px);
   left: 50%;
-  transform: translateX(-50%) translateY(-6px);
-  min-width: 240px;
+  transform: translateX(-50%) translateY(-8px);
+  min-width: 260px;
   background: #fff;
-  border: 1px solid rgba(17, 17, 17, 0.08);
-  border-radius: 10px;
-  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.12);
-  padding: 6px 0;
+  border: 1px solid rgba(17, 17, 17, 0.07);
+  border-radius: 14px;
+  box-shadow: 0 4px 6px -2px rgba(0,0,0,0.06), 0 16px 40px -4px rgba(0,0,0,0.13);
+  padding: 10px 0;
   list-style: none;
   opacity: 0;
   visibility: hidden;
@@ -1747,16 +1747,33 @@ img {
   margin: 0;
 }
 
+.submenu-group-label {
+  padding: 8px 18px 4px;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: #96BF48;
+}
+
+.submenu-divider {
+  height: 1px;
+  background: rgba(17, 17, 17, 0.07);
+  margin: 8px 18px;
+}
+
 .submenu a {
-  display: block;
-  padding: 10px 20px;
-  color: #222 !important;
-  font-size: 0.875rem;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 18px;
+  color: #1a1a1a !important;
+  font-size: 0.9rem;
   font-weight: 500;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
   text-transform: none;
   white-space: nowrap;
-  transition: background 0.15s ease, color 0.15s ease;
+  transition: background 0.14s ease, color 0.14s ease, padding-left 0.14s ease;
 }
 
 .submenu a::after {
@@ -1765,8 +1782,9 @@ img {
 
 .submenu a:hover,
 .submenu a:focus-visible {
-  background: #f5f5f3;
+  background: #f7f7f5;
   color: #96BF48 !important;
+  padding-left: 22px;
 }
 
 @media (max-width: 768px) {
@@ -1797,6 +1815,16 @@ img {
     transition-delay: 0s;
   }
 
+  .submenu-group-label {
+    color: #96BF48;
+    text-align: center;
+  }
+
+  .submenu-divider {
+    background: rgba(255, 255, 255, 0.1);
+    margin: 6px 24px;
+  }
+
   .submenu a {
     color: rgba(255, 255, 255, 0.7) !important;
     padding: 8px 14px;
@@ -1810,6 +1838,7 @@ img {
   .submenu a:focus-visible {
     background: transparent;
     color: #96BF48 !important;
+    padding-left: 14px;
   }
 }
 
