@@ -1788,10 +1788,12 @@ img {
     width: 100%;
   }
 
-  .has-submenu.submenu-open .submenu {
+  .has-submenu.submenu-open .submenu,
+  .has-submenu:hover .submenu {
     opacity: 1;
     visibility: visible;
     max-height: 400px;
+    transform: none;
     transition-delay: 0s;
   }
 
