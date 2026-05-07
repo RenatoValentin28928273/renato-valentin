@@ -14,6 +14,7 @@
 body {
   margin: 0;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
 a {
@@ -180,8 +181,12 @@ img {
 
 .hero-copy h1 {
   margin: 0 0 24px;
-  font-size: clamp(2.6rem, 3.5vw, 4.2rem);
-  line-height: 1.02;
+  font-size: clamp(1.9rem, 6vw, 4.2rem);
+  line-height: 1.08;
+}
+
+.h1-nowrap {
+  white-space: nowrap;
 }
 
 .hero-copy p {
@@ -1692,11 +1697,25 @@ img {
 
 @media (max-width: 620px) {
   .container {
-    width: min(100%, calc(100% - 24px));
+    width: min(100%, calc(100% - 32px));
+  }
+
+  .h1-nowrap {
+    white-space: normal;
+  }
+
+  .hero {
+    padding: 52px 0 44px;
+  }
+
+  .hero-copy p {
+    font-size: 1rem;
+    line-height: 1.7;
   }
 
   .hero-copy h1 {
-    font-size: 2.7rem;
+    font-size: clamp(1.75rem, 8vw, 2.2rem);
+    margin-bottom: 18px;
   }
 
   .brands-section {
