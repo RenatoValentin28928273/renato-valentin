@@ -1,4 +1,4 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 Disallow: /politica-de-privacidade.html
 Disallow: /politica-de-cookies.html
@@ -45,4 +45,5 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://renatovalentin.com.br/sitemap.xml
+Sitemap: https://www.renatovalentin.com.br/sitemap.xml
+

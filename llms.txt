@@ -1,4 +1,4 @@
-# Renato Valentin
+﻿# Renato Valentin
 
 > Especialista em criação de temas Shopify personalizados para agências e e-commerces no Brasil. Desenvolve storefronts do zero com foco em identidade visual, performance, edição fácil e experiência de compra.
 
@@ -6,29 +6,30 @@ Renato Valentin cria temas Shopify personalizados: seções, templates e compone
 
 ## Serviços
 
-- [Temas Shopify Customizados](https://renatovalentin.com.br/temas-shopify-customizados.html): Desenvolvimento de seções, templates e componentes Shopify do zero, pensados para operação real e edição fácil.
-- [Otimização de Performance Shopify](https://renatovalentin.com.br/otimizacao-performance-shopify.html): Ajustes de carregamento, estrutura e front-end para lojas mais rápidas e com menor atrito na jornada de compra.
-- [Shopify Plus e Headless](https://renatovalentin.com.br/shopify-plus-e-headless.html): Suporte técnico para operações avançadas, integrações e storefronts em escala.
-- [Design-to-Code para Shopify](https://renatovalentin.com.br/design-para-codigo-shopify.html): Transformação de layouts aprovados em interfaces responsivas e acessíveis para Shopify.
-- [Consultoria em SEO](https://renatovalentin.com.br/consultoria-seo.html): Diagnóstico técnico, estratégia de conteúdo e arquitetura para lojas Shopify e e-commerces.
-- [SEO para E-commerce](https://renatovalentin.com.br/seo-para-ecommerce.html): Otimização de categorias, produtos, arquitetura e conteúdo para crescimento orgânico.
-- [Google Merchant Center](https://renatovalentin.com.br/google-merchant-center.html): Configuração, auditoria e otimização de feed para Google Shopping e Performance Max.
+- [Temas Shopify Customizados](https://www.renatovalentin.com.br/temas-shopify-customizados.html): Desenvolvimento de seções, templates e componentes Shopify do zero, pensados para operação real e edição fácil.
+- [Otimização de Performance Shopify](https://www.renatovalentin.com.br/otimizacao-performance-shopify.html): Ajustes de carregamento, estrutura e front-end para lojas mais rápidas e com menor atrito na jornada de compra.
+- [Shopify Plus e Headless](https://www.renatovalentin.com.br/shopify-plus-e-headless.html): Suporte técnico para operações avançadas, integrações e storefronts em escala.
+- [Design-to-Code para Shopify](https://www.renatovalentin.com.br/design-para-codigo-shopify.html): Transformação de layouts aprovados em interfaces responsivas e acessíveis para Shopify.
+- [Consultoria em SEO](https://www.renatovalentin.com.br/consultoria-seo.html): Diagnóstico técnico, estratégia de conteúdo e arquitetura para lojas Shopify e e-commerces.
+- [SEO para E-commerce](https://www.renatovalentin.com.br/seo-para-ecommerce.html): Otimização de categorias, produtos, arquitetura e conteúdo para crescimento orgânico.
+- [Google Merchant Center](https://www.renatovalentin.com.br/google-merchant-center.html): Configuração, auditoria e otimização de feed para Google Shopping e Performance Max.
 
 ## Páginas institucionais
 
-- [Sobre](https://renatovalentin.com.br/sobre.html): Perfil profissional, especialidades e histórico de clientes.
-- [Portfólio](https://renatovalentin.com.br/portfolio.html): Projetos realizados em Shopify para agências e e-commerces.
-- [Serviços](https://renatovalentin.com.br/servicos.html): Visão geral de todos os serviços disponíveis.
-- [Perguntas Frequentes](https://renatovalentin.com.br/perguntas-frequentes.html): Dúvidas comuns sobre criação de temas Shopify e projetos.
+- [Sobre](https://www.renatovalentin.com.br/sobre.html): Perfil profissional, especialidades e histórico de clientes.
+- [Portfólio](https://www.renatovalentin.com.br/portfolio.html): Projetos realizados em Shopify para agências e e-commerces.
+- [Serviços](https://www.renatovalentin.com.br/servicos.html): Visão geral de todos os serviços disponíveis.
+- [Perguntas Frequentes](https://www.renatovalentin.com.br/perguntas-frequentes.html): Dúvidas comuns sobre criação de temas Shopify e projetos.
 
 ## Blog
 
-- [Blog](https://renatovalentin.com.br/blog.html): Artigos sobre Shopify, SEO e e-commerce.
-- [O que é SEO?](https://renatovalentin.com.br/o-que-e-seo.html): Guia completo sobre SEO para iniciantes e lojas virtuais.
-- [SEO Técnico](https://renatovalentin.com.br/seo-tecnico.html): Rastreamento, indexação, Core Web Vitals e auditoria técnica.
-- [SEO On-page](https://renatovalentin.com.br/seo-onpage.html): Title tag, meta description, headings e intenção de busca.
-- [SEO Off-page](https://renatovalentin.com.br/seo-offpage.html): Backlinks, link building e autoridade de domínio.
-- [Shopify vs Nuvemshop](https://renatovalentin.com.br/shopify-vs-nuvemshop.html): Comparativo completo entre as plataformas para o mercado brasileiro.
-- [Shopify vs Loja Integrada](https://renatovalentin.com.br/shopify-vs-loja-integrada.html): Comparativo de preços, checkout, frete e apps.
-- [Shopify Cart vs Checkout](https://renatovalentin.com.br/shopify-carrinho-vs-checkout.html): Diferenças entre carrinho e checkout no Shopify.
-- [Product Sets no Shopify](https://renatovalentin.com.br/conjuntos-de-produtos-shopify.html): Como agrupar produtos estratégicos no Shopify.
+- [Blog](https://www.renatovalentin.com.br/blog.html): Artigos sobre Shopify, SEO e e-commerce.
+- [O que é SEO?](https://www.renatovalentin.com.br/o-que-e-seo.html): Guia completo sobre SEO para iniciantes e lojas virtuais.
+- [SEO Técnico](https://www.renatovalentin.com.br/seo-tecnico.html): Rastreamento, indexação, Core Web Vitals e auditoria técnica.
+- [SEO On-page](https://www.renatovalentin.com.br/seo-onpage.html): Title tag, meta description, headings e intenção de busca.
+- [SEO Off-page](https://www.renatovalentin.com.br/seo-offpage.html): Backlinks, link building e autoridade de domínio.
+- [Shopify vs Nuvemshop](https://www.renatovalentin.com.br/shopify-vs-nuvemshop.html): Comparativo completo entre as plataformas para o mercado brasileiro.
+- [Shopify vs Loja Integrada](https://www.renatovalentin.com.br/shopify-vs-loja-integrada.html): Comparativo de preços, checkout, frete e apps.
+- [Shopify Cart vs Checkout](https://www.renatovalentin.com.br/shopify-carrinho-vs-checkout.html): Diferenças entre carrinho e checkout no Shopify.
+- [Product Sets no Shopify](https://www.renatovalentin.com.br/conjuntos-de-produtos-shopify.html): Como agrupar produtos estratégicos no Shopify.
+
