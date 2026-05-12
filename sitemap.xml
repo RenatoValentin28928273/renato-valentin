@@ -3,7 +3,7 @@
 
   <!-- Home -->
   <url>
-    <loc>https://renatovalentin.vercel.app/</loc>
+    <loc>https://renatovalentin.com.br/</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -11,25 +11,25 @@
 
   <!-- Páginas principais -->
   <url>
-    <loc>https://renatovalentin.vercel.app/servicos.html</loc>
+    <loc>https://renatovalentin.com.br/servicos.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/sobre.html</loc>
+    <loc>https://renatovalentin.com.br/sobre.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/portfolio.html</loc>
+    <loc>https://renatovalentin.com.br/portfolio.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/perguntas-frequentes.html</loc>
+    <loc>https://renatovalentin.com.br/perguntas-frequentes.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -37,25 +37,25 @@
 
   <!-- Serviços Shopify -->
   <url>
-    <loc>https://renatovalentin.vercel.app/temas-shopify-customizados.html</loc>
+    <loc>https://renatovalentin.com.br/temas-shopify-customizados.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/otimizacao-performance-shopify.html</loc>
+    <loc>https://renatovalentin.com.br/otimizacao-performance-shopify.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/shopify-plus-e-headless.html</loc>
+    <loc>https://renatovalentin.com.br/shopify-plus-e-headless.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/design-para-codigo-shopify.html</loc>
+    <loc>https://renatovalentin.com.br/design-para-codigo-shopify.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -63,19 +63,19 @@
 
   <!-- Serviços SEO -->
   <url>
-    <loc>https://renatovalentin.vercel.app/consultoria-seo.html</loc>
+    <loc>https://renatovalentin.com.br/consultoria-seo.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/seo-para-ecommerce.html</loc>
+    <loc>https://renatovalentin.com.br/seo-para-ecommerce.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/google-merchant-center.html</loc>
+    <loc>https://renatovalentin.com.br/google-merchant-center.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -83,31 +83,31 @@
 
   <!-- Blog e categorias -->
   <url>
-    <loc>https://renatovalentin.vercel.app/blog.html</loc>
+    <loc>https://renatovalentin.com.br/blog.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/shopify.html</loc>
+    <loc>https://renatovalentin.com.br/shopify.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/seo.html</loc>
+    <loc>https://renatovalentin.com.br/seo.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/categorias.html</loc>
+    <loc>https://renatovalentin.com.br/categorias.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/categoria-modelos.html</loc>
+    <loc>https://renatovalentin.com.br/categoria-modelos.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -115,49 +115,49 @@
 
   <!-- Artigos do blog -->
   <url>
-    <loc>https://renatovalentin.vercel.app/o-que-e-seo.html</loc>
+    <loc>https://renatovalentin.com.br/o-que-e-seo.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/seo-tecnico.html</loc>
+    <loc>https://renatovalentin.com.br/seo-tecnico.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/seo-offpage.html</loc>
+    <loc>https://renatovalentin.com.br/seo-offpage.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/seo-onpage.html</loc>
+    <loc>https://renatovalentin.com.br/seo-onpage.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/shopify-carrinho-vs-checkout.html</loc>
+    <loc>https://renatovalentin.com.br/shopify-carrinho-vs-checkout.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/conjuntos-de-produtos-shopify.html</loc>
+    <loc>https://renatovalentin.com.br/conjuntos-de-produtos-shopify.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/shopify-vs-loja-integrada.html</loc>
+    <loc>https://renatovalentin.com.br/shopify-vs-loja-integrada.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/shopify-vs-nuvemshop.html</loc>
+    <loc>https://renatovalentin.com.br/shopify-vs-nuvemshop.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -165,19 +165,19 @@
 
   <!-- Páginas legais (excluídas de indexação prioritária) -->
   <url>
-    <loc>https://renatovalentin.vercel.app/politica-de-privacidade.html</loc>
+    <loc>https://renatovalentin.com.br/politica-de-privacidade.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/politica-de-cookies.html</loc>
+    <loc>https://renatovalentin.com.br/politica-de-cookies.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
-    <loc>https://renatovalentin.vercel.app/termos-de-uso.html</loc>
+    <loc>https://renatovalentin.com.br/termos-de-uso.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
