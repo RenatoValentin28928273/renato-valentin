@@ -67,6 +67,22 @@ img {
   justify-self: end;
 }
 
+.nav-search-btn {
+  justify-self: end;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  opacity: 0.75;
+  transition: opacity 0.2s;
+  padding: 4px;
+  text-decoration: none;
+}
+
+.nav-search-btn:hover {
+  opacity: 1;
+}
+
 .mobile-menu-toggle {
   display: none;
   flex-direction: column;
