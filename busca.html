@@ -28,8 +28,12 @@
         .search-input:focus {
             border-color: var(--color-accent, #111);
         }
-        .search-results {
+        .search-results:empty {
+            display: none;
+        }
+        .search-results:not(:empty) {
             margin-top: 2.5rem;
+            padding-bottom: 4rem;
         }
         .search-results-count {
             font-size: 0.875rem;
@@ -137,7 +141,7 @@
                 </div>
             </section>
 
-            <div class="container" style="padding-bottom: 4rem;">
+            <div class="container">
                 <div id="search-results" class="search-results" aria-live="polite"></div>
             </div>
         </main>
