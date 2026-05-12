@@ -1,4 +1,48 @@
 User-agent: *
 Allow: /
+Disallow: /politica-de-privacidade.html
+Disallow: /politica-de-cookies.html
+Disallow: /termos-de-uso.html
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Google Gemini / AI Overviews
+User-agent: Google-Extended
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Meta AI
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+# Common Crawl (base de treino de vários LLMs)
+User-agent: CCBot
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# Bytedance / TikTok
+User-agent: Bytespider
+Allow: /
 
 Sitemap: https://renatovalentin.com.br/sitemap.xml
