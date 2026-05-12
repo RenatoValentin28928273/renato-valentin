@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Início",
+    "description": "Criação de temas Shopify personalizados para agências e e-commerces.",
+    "url": "index.html",
+    "tags": "shopify tema personalizado storefront desenvolvimento home"
+  },
+  {
+    "title": "Serviços",
+    "description": "Criação de temas Shopify personalizados, performance, Shopify Plus, design-to-code e SEO.",
+    "url": "servicos.html",
+    "tags": "serviços shopify seo desenvolvimento tema performance"
+  },
+  {
+    "title": "Sobre",
+    "description": "Especialista em criação de temas Shopify personalizados para agências e e-commerces no Brasil.",
+    "url": "sobre.html",
+    "tags": "sobre renato valentin desenvolvedor shopify especialista"
+  },
+  {
+    "title": "Portfólio",
+    "description": "Projetos realizados em Shopify para agências e e-commerces.",
+    "url": "portfolio.html",
+    "tags": "portfolio projetos trabalhos shopify clientes"
+  },
+  {
+    "title": "Perguntas Frequentes",
+    "description": "Dúvidas comuns sobre criação de temas Shopify e projetos.",
+    "url": "perguntas-frequentes.html",
+    "tags": "faq perguntas dúvidas shopify tema projeto"
+  },
+  {
+    "title": "Temas Shopify Customizados",
+    "description": "Desenvolvimento de seções, templates e componentes Shopify do zero, pensados para operação real e edição fácil.",
+    "url": "temas-shopify-customizados.html",
+    "tags": "temas shopify customizados seções templates componentes liquid"
+  },
+  {
+    "title": "Otimização de Performance Shopify",
+    "description": "Ajustes de carregamento, estrutura e front-end para lojas mais rápidas.",
+    "url": "otimizacao-performance-shopify.html",
+    "tags": "performance velocidade shopify carregamento core web vitals lcp"
+  },
+  {
+    "title": "Shopify Plus e Headless",
+    "description": "Suporte técnico para operações avançadas, integrações e storefronts em escala.",
+    "url": "shopify-plus-e-headless.html",
+    "tags": "shopify plus headless hydrogen escala integrações avançado"
+  },
+  {
+    "title": "Design-to-Code para Shopify",
+    "description": "Transformação de layouts aprovados em interfaces responsivas e acessíveis para Shopify.",
+    "url": "design-para-codigo-shopify.html",
+    "tags": "design figma código shopify responsivo implementação layout"
+  },
+  {
+    "title": "Consultoria em SEO",
+    "description": "Diagnóstico técnico, estratégia de conteúdo e arquitetura para lojas Shopify e e-commerces.",
+    "url": "consultoria-seo.html",
+    "tags": "consultoria seo diagnóstico estratégia conteúdo arquitetura shopify"
+  },
+  {
+    "title": "SEO para E-commerce",
+    "description": "Otimização de categorias, produtos, arquitetura e conteúdo para crescimento orgânico.",
+    "url": "seo-para-ecommerce.html",
+    "tags": "seo ecommerce categorias produtos orgânico google busca"
+  },
+  {
+    "title": "Google Merchant Center",
+    "description": "Configuração, auditoria e otimização de feed para Google Shopping e Performance Max.",
+    "url": "google-merchant-center.html",
+    "tags": "google merchant center shopping feed produtos pmax"
+  },
+  {
+    "title": "Blog",
+    "description": "Artigos sobre Shopify, SEO e e-commerce.",
+    "url": "blog.html",
+    "tags": "blog artigos shopify seo ecommerce"
+  },
+  {
+    "title": "O que é SEO? Guia Completo",
+    "description": "Entenda o que é SEO, como funciona o algoritmo do Google e os 3 pilares da estratégia orgânica.",
+    "url": "o-que-e-seo.html",
+    "tags": "o que é seo guia google algoritmo orgânico iniciantes"
+  },
+  {
+    "title": "SEO Técnico: Guia Completo",
+    "description": "Rastreamento, indexação, Core Web Vitals, sitemap, robots.txt, canonical e auditoria técnica.",
+    "url": "seo-tecnico.html",
+    "tags": "seo técnico rastreamento indexação core web vitals sitemap robots canonical"
+  },
+  {
+    "title": "SEO On-page: Guia Completo",
+    "description": "Title tag, meta description, headings, intenção de busca, links internos e E-E-A-T.",
+    "url": "seo-onpage.html",
+    "tags": "seo onpage title meta description headings conteúdo eeat"
+  },
+  {
+    "title": "SEO Off-page: Guia Completo",
+    "description": "Backlinks, dofollow vs nofollow, link building, digital PR e autoridade de domínio.",
+    "url": "seo-offpage.html",
+    "tags": "seo offpage backlinks link building autoridade domínio digital pr"
+  },
+  {
+    "title": "Shopify vs Nuvemshop",
+    "description": "Comparativo completo entre Shopify e Nuvemshop em preços, checkout, frete e apps para o Brasil.",
+    "url": "shopify-vs-nuvemshop.html",
+    "tags": "shopify nuvemshop comparativo plataforma ecommerce brasil"
+  },
+  {
+    "title": "Shopify vs Loja Integrada",
+    "description": "Comparativo de preços, checkout, PIX, boleto, frete e apps para quem vende no Brasil.",
+    "url": "shopify-vs-loja-integrada.html",
+    "tags": "shopify loja integrada comparativo plataforma checkout pix brasil"
+  },
+  {
+    "title": "Shopify Cart vs Checkout",
+    "description": "Diferenças entre a página do carrinho e a página de checkout no Shopify.",
+    "url": "shopify-carrinho-vs-checkout.html",
+    "tags": "shopify carrinho checkout diferença cart página"
+  },
+  {
+    "title": "Product Sets no Shopify",
+    "description": "Como agrupar produtos estratégicos para vender mais no Shopify.",
+    "url": "conjuntos-de-produtos-shopify.html",
+    "tags": "shopify product sets conjuntos produtos agrupamento venda"
+  }
+]

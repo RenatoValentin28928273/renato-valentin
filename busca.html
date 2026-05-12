@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://www.renatovalentin.com.br/busca.html">
+    <title>Busca | Renato Valentin</title>
+    <meta name="description" content="Pesquise por temas Shopify, SEO, performance e mais no site de Renato Valentin.">
+    <meta name="robots" content="noindex, follow">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .search-hero-form {
+            display: flex;
+            gap: 0.75rem;
+            margin-top: 1.5rem;
+            max-width: 540px;
+        }
+        .search-input {
+            flex: 1;
+            padding: 0.75rem 1rem;
+            font-size: 1rem;
+            border: 1px solid var(--color-border, #e2e2e2);
+            border-radius: 6px;
+            background: var(--color-bg, #fff);
+            color: var(--color-text, #111);
+            outline: none;
+        }
+        .search-input:focus {
+            border-color: var(--color-accent, #111);
+        }
+        .search-results {
+            margin-top: 2.5rem;
+        }
+        .search-results-count {
+            font-size: 0.875rem;
+            color: var(--color-text-muted, #666);
+            margin-bottom: 1.5rem;
+        }
+        .search-result-item {
+            padding: 1.25rem 0;
+            border-bottom: 1px solid var(--color-border, #e2e2e2);
+        }
+        .search-result-item:last-child {
+            border-bottom: none;
+        }
+        .search-result-title {
+            font-size: 1.05rem;
+            font-weight: 600;
+            margin: 0 0 0.35rem;
+        }
+        .search-result-title a {
+            color: var(--color-text, #111);
+            text-decoration: none;
+        }
+        .search-result-title a:hover {
+            text-decoration: underline;
+        }
+        .search-result-desc {
+            font-size: 0.9rem;
+            color: var(--color-text-muted, #555);
+            margin: 0;
+            line-height: 1.55;
+        }
+        .search-result-url {
+            font-size: 0.8rem;
+            color: var(--color-text-muted, #888);
+            margin-top: 0.25rem;
+        }
+        .search-empty {
+            color: var(--color-text-muted, #666);
+            font-size: 0.95rem;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="site-wrapper">
+        <header class="site-header">
+            <div class="container site-nav-main">
+                <nav class="site-nav">
+                    <div class="site-nav-left">
+                        <a class="site-nav-logo" href="index.html">Renato Valentin</a>
+                        <ul class="nav">
+                            <li><a href="index.html">Início</a></li>
+                            <li><a href="portfolio.html">Portfólio</a></li>
+                            <li class="has-submenu">
+                            <a href="servicos.html">Serviços</a>
+                            <button class="submenu-toggle" aria-label="Abrir menu de serviços" aria-expanded="false">
+                                <svg width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+<ul class="submenu">
+                                <li class="submenu-group-label">Shopify</li>
+                                <li><a href="temas-shopify-customizados.html">Temas Shopify</a></li>
+                                <li><a href="otimizacao-performance-shopify.html">Performance Shopify</a></li>
+                                <li><a href="shopify-plus-e-headless.html">Shopify Plus e Headless</a></li>
+                                <li><a href="design-para-codigo-shopify.html">Design-to-Code</a></li>
+                                <li class="submenu-divider" role="separator"></li>
+                                <li class="submenu-group-label">SEO</li>
+                                <li><a href="consultoria-seo.html">Consultoria SEO</a></li>
+                                <li><a href="seo-para-ecommerce.html">SEO para E-commerce</a></li>
+                                <li><a href="google-merchant-center.html">Google Merchant Center</a></li>
+                            </ul>
+                        </li>
+                            <li><a href="blog.html">Blog</a></li>
+                            <li><a href="sobre.html">Sobre</a></li>
+                        </ul>
+                    </div>
+                    <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </nav>
+            </div>
+        </header>
+
+        <main>
+            <section class="hero">
+                <div class="container hero-inner">
+                    <div class="hero-copy">
+                        <h1>Busca</h1>
+                        <p>Encontre páginas sobre temas Shopify, SEO, performance e mais.</p>
+                        <form class="search-hero-form" role="search" onsubmit="return false;">
+                            <input
+                                type="search"
+                                id="search-input"
+                                class="search-input"
+                                placeholder="Ex: tema shopify, seo, performance…"
+                                aria-label="Buscar no site"
+                                autocomplete="off"
+                            >
+                        </form>
+                    </div>
+                </div>
+            </section>
+
+            <section class="homepage-section">
+                <div class="container section-inner">
+                    <div id="search-results" class="search-results" aria-live="polite"></div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="site-footer">
+            <div class="container site-footer-content">
+                <div class="copyright"><a href="index.html">Renato Valentin</a> © 2026</div>
+                <nav class="site-footer-nav">
+                    <a href="sobre.html">Sobre</a>
+                    <a href="servicos.html">Serviços</a>
+                    <a href="perguntas-frequentes.html">Perguntas</a>
+                    <a href="politica-de-privacidade.html">Privacidade</a>
+                    <a href="politica-de-cookies.html">Cookies</a>
+                    <a href="termos-de-uso.html">Termos</a>
+                    <a href="sitemap.xml">Sitemap</a>
+                    <a href="llms.txt">LLMs</a>
+                </nav>
+            </div>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+    <script src="script.js"></script>
+    <script>
+    (function () {
+        const input = document.getElementById('search-input');
+        const resultsEl = document.getElementById('search-results');
+        let fuse = null;
+
+        function renderResults(results, query) {
+            if (!query) {
+                resultsEl.innerHTML = '';
+                return;
+            }
+            if (results.length === 0) {
+                resultsEl.innerHTML = '<p class="search-empty">Nenhum resultado encontrado para <strong>"' + escapeHtml(query) + '"</strong>.</p>';
+                return;
+            }
+            const count = '<p class="search-results-count">' + results.length + ' resultado' + (results.length !== 1 ? 's' : '') + ' para <strong>"' + escapeHtml(query) + '"</strong></p>';
+            const items = results.map(function (r) {
+                const item = r.item;
+                return '<div class="search-result-item">'
+                    + '<p class="search-result-title"><a href="' + item.url + '">' + escapeHtml(item.title) + '</a></p>'
+                    + '<p class="search-result-desc">' + escapeHtml(item.description) + '</p>'
+                    + '<p class="search-result-url">renatovalentin.com.br/' + item.url + '</p>'
+                    + '</div>';
+            }).join('');
+            resultsEl.innerHTML = count + items;
+        }
+
+        function escapeHtml(str) {
+            return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+        }
+
+        function runSearch(query) {
+            if (!fuse || !query.trim()) {
+                renderResults([], query);
+                return;
+            }
+            const results = fuse.search(query.trim());
+            renderResults(results, query.trim());
+        }
+
+        fetch('search-index.json')
+            .then(function (r) { return r.json(); })
+            .then(function (data) {
+                fuse = new Fuse(data, {
+                    keys: [
+                        { name: 'title', weight: 0.5 },
+                        { name: 'description', weight: 0.3 },
+                        { name: 'tags', weight: 0.2 }
+                    ],
+                    threshold: 0.4,
+                    includeScore: true
+                });
+
+                // Pre-fill from URL param
+                const params = new URLSearchParams(window.location.search);
+                const q = params.get('q') || '';
+                if (q) {
+                    input.value = q;
+                    runSearch(q);
+                }
+            });
+
+        input.addEventListener('input', function () {
+            const q = input.value;
+            const url = new URL(window.location.href);
+            if (q) {
+                url.searchParams.set('q', q);
+            } else {
+                url.searchParams.delete('q');
+            }
+            window.history.replaceState(null, '', url.toString());
+            runSearch(q);
+        });
+    })();
+    </script>
+</body>
+</html>
