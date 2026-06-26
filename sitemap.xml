@@ -4,7 +4,7 @@
   <!-- Home -->
   <url>
     <loc>https://www.renatovalentin.com.br/</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,164 +12,96 @@
   <!-- Páginas principais -->
   <url>
     <loc>https://www.renatovalentin.com.br/servicos.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.renatovalentin.com.br/sobre.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.renatovalentin.com.br/portfolio.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.renatovalentin.com.br/perguntas-frequentes.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.renatovalentin.com.br/busca.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
 
-  <!-- Serviços Shopify -->
+  <!-- Serviços SEO para SaaS -->
   <url>
-    <loc>https://www.renatovalentin.com.br/temas-shopify-customizados.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <loc>https://www.renatovalentin.com.br/consultoria-seo.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+
+  <url>
+    <loc>https://www.renatovalentin.com.br/seo-de-conteudo-saas.html</loc>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/otimizacao-performance-shopify.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <loc>https://www.renatovalentin.com.br/seo-tecnico-saas.html</loc>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://www.renatovalentin.com.br/shopify-plus-e-headless.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.renatovalentin.com.br/design-para-codigo-shopify.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Serviços SEO -->
-  <url>
-    <loc>https://www.renatovalentin.com.br/consultoria-seo.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.renatovalentin.com.br/seo-para-ecommerce.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.renatovalentin.com.br/google-merchant-center.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
   <!-- Blog e categorias -->
   <url>
     <loc>https://www.renatovalentin.com.br/blog.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/shopify.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.renatovalentin.com.br/seo.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://www.renatovalentin.com.br/categorias.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.renatovalentin.com.br/categoria-modelos.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-
   <!-- Artigos do blog -->
   <url>
+    <loc>https://www.renatovalentin.com.br/estudo-de-caso-seo-pipedrive.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.renatovalentin.com.br/o-que-e-seo.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.renatovalentin.com.br/seo-tecnico.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.renatovalentin.com.br/seo-offpage.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.renatovalentin.com.br/seo-onpage.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.renatovalentin.com.br/shopify-carrinho-vs-checkout.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.renatovalentin.com.br/conjuntos-de-produtos-shopify.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.renatovalentin.com.br/shopify-vs-loja-integrada.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.renatovalentin.com.br/shopify-vs-nuvemshop.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
 
-  <!-- Páginas legais (excluídas de indexação prioritária) -->
+  <!-- Páginas legais -->
   <url>
     <loc>https://www.renatovalentin.com.br/politica-de-privacidade.html</loc>
     <lastmod>2026-05-12</lastmod>
@@ -190,4 +122,3 @@
   </url>
 
 </urlset>
-
