@@ -79,6 +79,32 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Alta prioridade: conceitos estratégicos sem canibalização -->
+  <url>
+    <loc>https://www.renatovalentin.com.br/link-building-para-b2b</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.renatovalentin.com.br/funil-de-conteudo-b2b</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.renatovalentin.com.br/seo-para-startups-b2b</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.renatovalentin.com.br/e-e-a-t-para-empresas-b2b</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Páginas GEO — posicionamento em IAs — Fase 3 (nichos + GEO) -->
   <url>
     <loc>https://www.renatovalentin.com.br/geo-otimizacao-para-ias</loc>
