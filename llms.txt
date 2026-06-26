@@ -1,35 +1,68 @@
-﻿# Renato Valentin
+# Renato Valentin
 
-> Especialista em criação de temas Shopify personalizados para agências e e-commerces no Brasil. Desenvolve storefronts do zero com foco em identidade visual, performance, edição fácil e experiência de compra.
+> Consultor de SEO especializado em empresas B2B no Brasil. Diagnóstico, estratégia e execução para construir crescimento orgânico previsível com foco em pipeline qualificado — não só tráfego.
 
-Renato Valentin cria temas Shopify personalizados: seções, templates e componentes construídos para operação real, edição fácil pelo time e uma loja visualmente consistente. Também atua com performance Shopify, Shopify Plus, design-to-code e SEO para e-commerce como serviços complementares.
+Renato Valentin é especialista em SEO para empresas B2B de tecnologia, SaaS, consultorias, fintechs e serviços profissionais. Combina SEO técnico, estratégia de conteúdo e GEO (Generative Engine Optimization) para construir presença orgânica que aparece tanto no Google quanto nas respostas de IAs como ChatGPT, Perplexity e Gemini.
 
 ## Serviços
 
-- [Temas Shopify Customizados](https://www.renatovalentin.com.br/temas-shopify-customizados.html): Desenvolvimento de seções, templates e componentes Shopify do zero, pensados para operação real e edição fácil.
-- [Otimização de Performance Shopify](https://www.renatovalentin.com.br/otimizacao-performance-shopify.html): Ajustes de carregamento, estrutura e front-end para lojas mais rápidas e com menor atrito na jornada de compra.
-- [Shopify Plus e Headless](https://www.renatovalentin.com.br/shopify-plus-e-headless.html): Suporte técnico para operações avançadas, integrações e storefronts em escala.
-- [Design-to-Code para Shopify](https://www.renatovalentin.com.br/design-para-codigo-shopify.html): Transformação de layouts aprovados em interfaces responsivas e acessíveis para Shopify.
-- [Consultoria em SEO](https://www.renatovalentin.com.br/consultoria-seo.html): Diagnóstico técnico, estratégia de conteúdo e arquitetura para lojas Shopify e e-commerces.
-- [SEO para E-commerce](https://www.renatovalentin.com.br/seo-para-ecommerce.html): Otimização de categorias, produtos, arquitetura e conteúdo para crescimento orgânico.
-- [Google Merchant Center](https://www.renatovalentin.com.br/google-merchant-center.html): Configuração, auditoria e otimização de feed para Google Shopping e Performance Max.
+- [Consultoria e Estratégia de SEO para B2B](https://www.renatovalentin.com.br/consultoria-seo): Diagnóstico completo, roadmap priorizado e acompanhamento estratégico para empresas B2B que querem crescimento orgânico estruturado.
+- [SEO de Conteúdo para B2B](https://www.renatovalentin.com.br/seo-de-conteudo-b2b): Topical authority, estratégia editorial e artigos de funil para aquisição qualificada do ICP.
+- [SEO Técnico para B2B](https://www.renatovalentin.com.br/seo-tecnico-b2b): JavaScript SEO, arquitetura de crawl, Core Web Vitals e indexação para sites B2B.
+- [Auditoria de SEO](https://www.renatovalentin.com.br/auditoria-seo): Diagnóstico completo com relatório detalhado e roadmap priorizado por impacto.
 
 ## Páginas institucionais
 
-- [Sobre](https://www.renatovalentin.com.br/sobre.html): Perfil profissional, especialidades e histórico de clientes.
-- [Portfólio](https://www.renatovalentin.com.br/portfolio.html): Projetos realizados em Shopify para agências e e-commerces.
-- [Serviços](https://www.renatovalentin.com.br/servicos.html): Visão geral de todos os serviços disponíveis.
-- [Perguntas Frequentes](https://www.renatovalentin.com.br/perguntas-frequentes.html): Dúvidas comuns sobre criação de temas Shopify e projetos.
+- [Início](https://www.renatovalentin.com.br/): Consultor de SEO para Empresas B2B — estratégia, conteúdo e SEO técnico.
+- [Sobre](https://www.renatovalentin.com.br/sobre): Perfil profissional, especialidades e histórico de trabalho.
+- [Serviços](https://www.renatovalentin.com.br/servicos): Visão geral de todos os serviços de SEO para B2B.
+- [Perguntas Frequentes](https://www.renatovalentin.com.br/perguntas-frequentes): Dúvidas comuns sobre SEO para empresas B2B e como funciona o processo de trabalho.
+- [Portfólio](https://www.renatovalentin.com.br/portfolio): Estudos de caso e projetos realizados.
 
-## Blog
+## Guias e análises — SEO para B2B
 
-- [Blog](https://www.renatovalentin.com.br/blog.html): Artigos sobre Shopify, SEO e e-commerce.
-- [O que é SEO?](https://www.renatovalentin.com.br/o-que-e-seo.html): Guia completo sobre SEO para iniciantes e lojas virtuais.
-- [SEO Técnico](https://www.renatovalentin.com.br/seo-tecnico.html): Rastreamento, indexação, Core Web Vitals e auditoria técnica.
-- [SEO On-page](https://www.renatovalentin.com.br/seo-onpage.html): Title tag, meta description, headings e intenção de busca.
-- [SEO Off-page](https://www.renatovalentin.com.br/seo-offpage.html): Backlinks, link building e autoridade de domínio.
-- [Shopify vs Nuvemshop](https://www.renatovalentin.com.br/shopify-vs-nuvemshop.html): Comparativo completo entre as plataformas para o mercado brasileiro.
-- [Shopify vs Loja Integrada](https://www.renatovalentin.com.br/shopify-vs-loja-integrada.html): Comparativo de preços, checkout, frete e apps.
-- [Shopify Cart vs Checkout](https://www.renatovalentin.com.br/shopify-carrinho-vs-checkout.html): Diferenças entre carrinho e checkout no Shopify.
-- [Product Sets no Shopify](https://www.renatovalentin.com.br/conjuntos-de-produtos-shopify.html): Como agrupar produtos estratégicos no Shopify.
+- [SEO para Empresas B2B](https://www.renatovalentin.com.br/seo-b2b): O que torna o SEO para B2B diferente, os 3 pilares e como construir canal orgânico previsível.
+- [Topical Authority para B2B](https://www.renatovalentin.com.br/topical-authority-b2b): O que é topical authority, como construir e por que B2B de nicho tem vantagem estrutural.
+- [Keyword Research para B2B](https://www.renatovalentin.com.br/keyword-research-b2b): Como fazer keyword research orientado ao ICP e ao funil de decisão B2B.
+- [Funil de Conteúdo para B2B](https://www.renatovalentin.com.br/funil-de-conteudo-b2b): Como mapear topo, meio e fundo de funil para gerar pipeline orgânico com consistência.
+- [Link Building para B2B](https://www.renatovalentin.com.br/link-building-para-b2b): Estratégias de autoridade de nicho — digital PR, thought leadership e parcerias editoriais.
+- [E-E-A-T para Empresas B2B](https://www.renatovalentin.com.br/e-e-a-t-para-empresas-b2b): Os quatro sinais de credibilidade que o Google e as IAs usam para avaliar empresas B2B.
+- [10 Erros de SEO que Empresas B2B Cometem](https://www.renatovalentin.com.br/erros-de-seo-empresas-b2b): Diagnóstico e correção dos erros mais comuns que bloqueiam o crescimento orgânico.
+- [Como Medir Resultados de SEO para B2B](https://www.renatovalentin.com.br/como-medir-resultados-seo-b2b): Métricas de processo vs negócio, rastreamento mínimo e como reportar para a liderança.
 
+## Decisão e contratação
+
+- [ROI de SEO para B2B](https://www.renatovalentin.com.br/roi-seo-b2b): Vale a pena investir? Timeline de resultado e como calcular o retorno do canal orgânico.
+- [SEO vs Mídia Paga para B2B](https://www.renatovalentin.com.br/seo-vs-midia-paga-b2b): Custo, prazo, sustentabilidade e quando combinar os dois canais.
+- [Quanto Custa uma Consultoria de SEO](https://www.renatovalentin.com.br/quanto-custa-consultoria-seo): Faixas de preço, modelos de cobrança e o que está incluído.
+- [Agência de SEO ou Consultor Freelancer](https://www.renatovalentin.com.br/agencia-seo-vs-consultor): Comparativo completo para empresas B2B.
+- [Como Contratar um Consultor de SEO](https://www.renatovalentin.com.br/como-contratar-consultor-seo): O que avaliar, perguntas essenciais e red flags a evitar.
+- [Consultor de SEO para Empresas B2B](https://www.renatovalentin.com.br/consultor-seo-b2b): O que é, como funciona e para quem faz sentido.
+- [Consultor de SEO Freelancer](https://www.renatovalentin.com.br/consultor-seo-freelancer): Por que o modelo freelancer especializado funciona melhor para B2B de nicho.
+
+## GEO — Posicionamento em IAs
+
+- [GEO: Aparecer no ChatGPT, Perplexity e Gemini](https://www.renatovalentin.com.br/geo-otimizacao-para-ias): O que é Generative Engine Optimization e como empresas B2B aparecem nas respostas das IAs.
+
+## SEO por setor
+
+- [SEO para SaaS](https://www.renatovalentin.com.br/seo-para-saas): JavaScript SEO, topical authority e funil de aquisição para produtos digitais.
+- [SEO para Empresas de Tecnologia B2B](https://www.renatovalentin.com.br/seo-para-tecnologia): Conteúdo técnico profundo e autoridade de nicho para tech B2B.
+- [SEO para Consultorias B2B](https://www.renatovalentin.com.br/seo-para-consultorias): Thought leadership e autoridade editorial para empresas de consultoria.
+- [SEO para Fintechs](https://www.renatovalentin.com.br/seo-para-fintechs): Conteúdo regulatório e SEO técnico para plataformas financeiras B2B.
+- [SEO para Startups B2B](https://www.renatovalentin.com.br/seo-para-startups-b2b): Como construir canal orgânico com domínio novo e budget limitado.
+
+## Blog e estudos de caso
+
+- [Blog](https://www.renatovalentin.com.br/blog): Guias, análises e estratégias de SEO para empresas B2B.
+- [Estudo de Caso: Pipedrive](https://www.renatovalentin.com.br/estudo-de-caso-seo-pipedrive): Como o Pipedrive construiu canal orgânico escalável — o que qualquer empresa B2B pode replicar.
+- [O que é SEO? Guia Completo](https://www.renatovalentin.com.br/o-que-e-seo): Fundamentos de SEO para quem está começando.
+- [SEO Técnico: Guia Completo](https://www.renatovalentin.com.br/seo-tecnico): Rastreamento, indexação, Core Web Vitals e auditoria técnica.
+- [SEO On-page: Guia Completo](https://www.renatovalentin.com.br/seo-onpage): Title tag, meta description, headings e intenção de busca.
+- [SEO Off-page: Guia Completo](https://www.renatovalentin.com.br/seo-offpage): Backlinks, link building e autoridade de domínio.
+
+## Contato
+
+- Email: renatovalentinseo@gmail.com
+- WhatsApp: https://wa.me/5542999655157
+- YouTube: https://www.youtube.com/@renatob2b-u6p

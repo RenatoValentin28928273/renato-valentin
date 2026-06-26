@@ -1,128 +1,218 @@
 [
   {
     "title": "Início",
-    "description": "Criação de temas Shopify personalizados para agências e e-commerces.",
-    "url": "index.html",
-    "tags": "shopify tema personalizado storefront desenvolvimento home"
+    "description": "Especialista em SEO para empresas B2B — estratégia, conteúdo e SEO técnico para crescimento orgânico previsível.",
+    "url": "/",
+    "tags": "seo b2b consultor especialista estratégia conteúdo técnico pipeline"
   },
   {
-    "title": "Serviços",
-    "description": "Criação de temas Shopify personalizados, performance, Shopify Plus, design-to-code e SEO.",
-    "url": "servicos.html",
-    "tags": "serviços shopify seo desenvolvimento tema performance"
+    "title": "Serviços de SEO para B2B",
+    "description": "Consultoria e estratégia, SEO de conteúdo e SEO técnico para empresas B2B que querem crescimento orgânico previsível.",
+    "url": "servicos",
+    "tags": "serviços seo b2b consultoria conteúdo técnico"
   },
   {
-    "title": "Sobre",
-    "description": "Especialista em criação de temas Shopify personalizados para agências e e-commerces no Brasil.",
-    "url": "sobre.html",
-    "tags": "sobre renato valentin desenvolvedor shopify especialista"
-  },
-  {
-    "title": "Portfólio",
-    "description": "Projetos realizados em Shopify para agências e e-commerces.",
-    "url": "portfolio.html",
-    "tags": "portfolio projetos trabalhos shopify clientes"
+    "title": "Sobre Renato Valentin",
+    "description": "Consultor de SEO especializado em empresas B2B de tecnologia, SaaS, consultorias e serviços profissionais.",
+    "url": "sobre",
+    "tags": "sobre renato valentin consultor seo b2b especialista"
   },
   {
     "title": "Perguntas Frequentes",
-    "description": "Dúvidas comuns sobre criação de temas Shopify e projetos.",
-    "url": "perguntas-frequentes.html",
-    "tags": "faq perguntas dúvidas shopify tema projeto"
+    "description": "Respostas às dúvidas mais comuns sobre SEO para empresas B2B, processo de trabalho e como contratar.",
+    "url": "perguntas-frequentes",
+    "tags": "faq perguntas dúvidas seo b2b processo trabalho contratar"
   },
   {
-    "title": "Temas Shopify Customizados",
-    "description": "Desenvolvimento de seções, templates e componentes Shopify do zero, pensados para operação real e edição fácil.",
-    "url": "temas-shopify-customizados.html",
-    "tags": "temas shopify customizados seções templates componentes liquid"
+    "title": "Consultoria e Estratégia de SEO para B2B",
+    "description": "Diagnóstico completo, roadmap priorizado e acompanhamento estratégico para empresas B2B que precisam de crescimento orgânico estruturado.",
+    "url": "consultoria-seo",
+    "tags": "consultoria seo b2b diagnóstico roadmap estratégia orgânico"
   },
   {
-    "title": "Otimização de Performance Shopify",
-    "description": "Ajustes de carregamento, estrutura e front-end para lojas mais rápidas.",
-    "url": "otimizacao-performance-shopify.html",
-    "tags": "performance velocidade shopify carregamento core web vitals lcp"
+    "title": "SEO de Conteúdo para B2B",
+    "description": "Topical authority, estratégia editorial e artigos de funil para aquisição qualificada do ICP em empresas B2B.",
+    "url": "seo-de-conteudo-b2b",
+    "tags": "seo conteúdo b2b topical authority editorial artigos funil icp"
   },
   {
-    "title": "Shopify Plus e Headless",
-    "description": "Suporte técnico para operações avançadas, integrações e storefronts em escala.",
-    "url": "shopify-plus-e-headless.html",
-    "tags": "shopify plus headless hydrogen escala integrações avançado"
+    "title": "SEO Técnico para B2B",
+    "description": "JavaScript SEO, Core Web Vitals, arquitetura de crawl e indexação para garantir que o site da sua empresa B2B seja encontrado e ranqueado.",
+    "url": "seo-tecnico-b2b",
+    "tags": "seo técnico b2b javascript core web vitals crawl indexação"
   },
   {
-    "title": "Design-to-Code para Shopify",
-    "description": "Transformação de layouts aprovados em interfaces responsivas e acessíveis para Shopify.",
-    "url": "design-para-codigo-shopify.html",
-    "tags": "design figma código shopify responsivo implementação layout"
+    "title": "Auditoria de SEO para B2B",
+    "description": "Diagnóstico completo de SEO técnico, conteúdo e autoridade com relatório detalhado e roadmap priorizado por impacto.",
+    "url": "auditoria-seo",
+    "tags": "auditoria seo b2b diagnóstico relatório roadmap priorizado"
   },
   {
-    "title": "Consultoria em SEO",
-    "description": "Diagnóstico técnico, estratégia de conteúdo e arquitetura para lojas Shopify e e-commerces.",
-    "url": "consultoria-seo.html",
-    "tags": "consultoria seo diagnóstico estratégia conteúdo arquitetura shopify"
+    "title": "Consultor de SEO para Empresas B2B",
+    "description": "Renato Valentin é consultor de SEO especializado em empresas B2B no Brasil — diagnóstico, estratégia e execução para pipeline orgânico previsível.",
+    "url": "consultor-seo-b2b",
+    "tags": "consultor seo b2b brasil especialista pipeline orgânico"
   },
   {
-    "title": "SEO para E-commerce",
-    "description": "Otimização de categorias, produtos, arquitetura e conteúdo para crescimento orgânico.",
-    "url": "seo-para-ecommerce.html",
-    "tags": "seo ecommerce categorias produtos orgânico google busca"
+    "title": "Consultor de SEO Freelancer para B2B",
+    "description": "Consultor de SEO freelancer especializado em empresas B2B — sem estrutura de agência, com foco total no canal orgânico.",
+    "url": "consultor-seo-freelancer",
+    "tags": "consultor seo freelancer b2b independente especializado"
   },
   {
-    "title": "Google Merchant Center",
-    "description": "Configuração, auditoria e otimização de feed para Google Shopping e Performance Max.",
-    "url": "google-merchant-center.html",
-    "tags": "google merchant center shopping feed produtos pmax"
+    "title": "SEO para Empresas B2B",
+    "description": "Guia completo de SEO para empresas B2B: o que é diferente do SEO tradicional, os 3 pilares e como construir canal orgânico previsível.",
+    "url": "seo-b2b",
+    "tags": "seo b2b estratégia pilares canal orgânico icp funil decisão"
+  },
+  {
+    "title": "ROI de SEO para B2B: Vale a Pena Investir?",
+    "description": "Quanto tempo leva para SEO gerar resultado em B2B, como comparar com outros canais e quando o investimento faz sentido.",
+    "url": "roi-seo-b2b",
+    "tags": "roi seo b2b investimento resultado tempo retorno canal"
+  },
+  {
+    "title": "SEO vs Mídia Paga para B2B",
+    "description": "Comparativo entre SEO e Google Ads para empresas B2B: custo, prazo, sustentabilidade e quando combinar os dois canais.",
+    "url": "seo-vs-midia-paga-b2b",
+    "tags": "seo mídia paga b2b google ads comparativo custo prazo"
+  },
+  {
+    "title": "Quanto Custa uma Consultoria de SEO?",
+    "description": "Faixas de preço, modelos de cobrança e o que está incluído em uma consultoria de SEO para empresas B2B.",
+    "url": "quanto-custa-consultoria-seo",
+    "tags": "quanto custa consultoria seo preço valor modelos cobrança b2b"
+  },
+  {
+    "title": "Agência de SEO ou Consultor Freelancer?",
+    "description": "Comparativo completo entre agência de SEO e consultor freelancer para empresas B2B — quando cada modelo faz sentido.",
+    "url": "agencia-seo-vs-consultor",
+    "tags": "agência seo consultor freelancer comparativo b2b modelo escolher"
+  },
+  {
+    "title": "Como Contratar um Consultor de SEO",
+    "description": "O que avaliar, quais perguntas fazer e quais red flags evitar para contratar o consultor de SEO certo para sua empresa B2B.",
+    "url": "como-contratar-consultor-seo",
+    "tags": "contratar consultor seo b2b avaliar perguntas red flags processo"
+  },
+  {
+    "title": "Topical Authority para Empresas B2B",
+    "description": "O que é topical authority, como construir e por que empresas B2B de nicho têm vantagem estrutural para dominá-la.",
+    "url": "topical-authority-b2b",
+    "tags": "topical authority b2b nicho cluster pillar construir domínio"
+  },
+  {
+    "title": "Keyword Research para B2B",
+    "description": "Como fazer keyword research orientado ao ICP e ao funil de decisão B2B — por que começar pelo comprador, não pela ferramenta.",
+    "url": "keyword-research-b2b",
+    "tags": "keyword research b2b icp funil palavras-chave intenção busca"
+  },
+  {
+    "title": "Funil de Conteúdo para B2B",
+    "description": "O que é funil de conteúdo para B2B, como mapear topo, meio e fundo de funil e quais conteúdos geram pipeline orgânico.",
+    "url": "funil-de-conteudo-b2b",
+    "tags": "funil conteúdo b2b tofu mofu bofu pipeline orgânico mapear"
+  },
+  {
+    "title": "Link Building para Empresas B2B",
+    "description": "Estratégias de autoridade de nicho para B2B: digital PR, thought leadership editorial, menção de marca e parcerias.",
+    "url": "link-building-para-b2b",
+    "tags": "link building b2b autoridade nicho digital pr backlinks"
+  },
+  {
+    "title": "E-E-A-T para Empresas B2B",
+    "description": "Os quatro sinais de credibilidade (Experiência, Expertise, Autoridade, Confiabilidade) que o Google e as IAs usam para avaliar empresas B2B.",
+    "url": "e-e-a-t-para-empresas-b2b",
+    "tags": "eeat experiência expertise autoridade confiabilidade google ias b2b"
+  },
+  {
+    "title": "10 Erros de SEO que Empresas B2B Cometem",
+    "description": "Por que a maioria das empresas B2B não aparece no Google — os 10 erros mais comuns e como corrigir cada um.",
+    "url": "erros-de-seo-empresas-b2b",
+    "tags": "erros seo b2b diagnóstico corrigi google aparecer problema"
+  },
+  {
+    "title": "Como Medir Resultados de SEO para B2B",
+    "description": "Quais métricas de SEO realmente importam para B2B, como configurar rastreamento e como medir impacto em pipeline e receita.",
+    "url": "como-medir-resultados-seo-b2b",
+    "tags": "medir resultados seo b2b métricas rastreamento pipeline receita"
+  },
+  {
+    "title": "GEO: Como Aparecer no ChatGPT, Perplexity e Gemini",
+    "description": "O que é GEO (Generative Engine Optimization) e como empresas B2B otimizam conteúdo para aparecer nas respostas das IAs.",
+    "url": "geo-otimizacao-para-ias",
+    "tags": "geo generative engine optimization chatgpt perplexity gemini ias b2b"
+  },
+  {
+    "title": "SEO para SaaS",
+    "description": "JavaScript SEO, topical authority orientada ao ICP e funil de aquisição B2B para produtos SaaS que querem crescimento orgânico.",
+    "url": "seo-para-saas",
+    "tags": "seo saas javascript icp funil aquisição orgânico produto digital"
+  },
+  {
+    "title": "SEO para Empresas de Tecnologia B2B",
+    "description": "Conteúdo técnico profundo, topical authority em subnichos e SEO de infraestrutura para softwares, plataformas e tech B2B.",
+    "url": "seo-para-tecnologia",
+    "tags": "seo tecnologia b2b software plataforma cto infra técnico"
+  },
+  {
+    "title": "SEO para Consultorias B2B",
+    "description": "Thought leadership, autoridade editorial e SEO para consultorias B2B que vendem por reputação e especialidade.",
+    "url": "seo-para-consultorias",
+    "tags": "seo consultorias b2b thought leadership autoridade reputação"
+  },
+  {
+    "title": "SEO para Fintechs e Empresas Financeiras B2B",
+    "description": "Conteúdo regulatório como diferencial, SEO técnico para plataformas financeiras e estratégia para atrair CFOs e CTOs.",
+    "url": "seo-para-fintechs",
+    "tags": "seo fintechs financeiro b2b regulatório bacen compliance cfo cto"
+  },
+  {
+    "title": "SEO para Startups B2B",
+    "description": "Como construir presença orgânica com domínio novo, autoridade zero e budget limitado — estratégia para early stage B2B.",
+    "url": "seo-para-startups-b2b",
+    "tags": "seo startups b2b domínio novo autoridade zero budget early stage"
   },
   {
     "title": "Blog",
-    "description": "Artigos sobre Shopify, SEO e e-commerce.",
-    "url": "blog.html",
-    "tags": "blog artigos shopify seo ecommerce"
+    "description": "Guias, análises e estratégias de SEO para empresas B2B — conteúdo, técnico, GEO e posicionamento em IAs.",
+    "url": "blog",
+    "tags": "blog guias análises seo b2b estratégia geo ias"
+  },
+  {
+    "title": "Estudo de Caso: SEO do Pipedrive",
+    "description": "Como o Pipedrive construiu um dos canais orgânicos mais eficientes em SaaS B2B — o que qualquer empresa pode replicar.",
+    "url": "estudo-de-caso-seo-pipedrive",
+    "tags": "estudo caso pipedrive seo saas b2b canal orgânico topical authority"
   },
   {
     "title": "O que é SEO? Guia Completo",
-    "description": "Entenda o que é SEO, como funciona o algoritmo do Google e os 3 pilares da estratégia orgânica.",
-    "url": "o-que-e-seo.html",
-    "tags": "o que é seo guia google algoritmo orgânico iniciantes"
+    "description": "Entenda o que é SEO, como funciona o algoritmo do Google e os 3 pilares da estratégia orgânica para crescimento previsível.",
+    "url": "o-que-e-seo",
+    "tags": "o que é seo guia google algoritmo orgânico iniciantes pilares"
   },
   {
     "title": "SEO Técnico: Guia Completo",
-    "description": "Rastreamento, indexação, Core Web Vitals, sitemap, robots.txt, canonical e auditoria técnica.",
-    "url": "seo-tecnico.html",
-    "tags": "seo técnico rastreamento indexação core web vitals sitemap robots canonical"
+    "description": "Rastreamento, indexação, Core Web Vitals, JavaScript SEO, sitemap, robots.txt, canonical e auditoria técnica.",
+    "url": "seo-tecnico",
+    "tags": "seo técnico rastreamento indexação core web vitals javascript sitemap canonical"
   },
   {
     "title": "SEO On-page: Guia Completo",
-    "description": "Title tag, meta description, headings, intenção de busca, links internos e E-E-A-T.",
-    "url": "seo-onpage.html",
-    "tags": "seo onpage title meta description headings conteúdo eeat"
+    "description": "Title tag, meta description, headings, intenção de busca, links internos e E-E-A-T para sites B2B.",
+    "url": "seo-onpage",
+    "tags": "seo onpage title meta description headings conteúdo eeat links internos"
   },
   {
     "title": "SEO Off-page: Guia Completo",
-    "description": "Backlinks, dofollow vs nofollow, link building, digital PR e autoridade de domínio.",
-    "url": "seo-offpage.html",
-    "tags": "seo offpage backlinks link building autoridade domínio digital pr"
+    "description": "Backlinks, dofollow vs nofollow, link building, digital PR, menções de marca e autoridade de domínio.",
+    "url": "seo-offpage",
+    "tags": "seo offpage backlinks link building autoridade domínio digital pr nofollow"
   },
   {
-    "title": "Shopify vs Nuvemshop",
-    "description": "Comparativo completo entre Shopify e Nuvemshop em preços, checkout, frete e apps para o Brasil.",
-    "url": "shopify-vs-nuvemshop.html",
-    "tags": "shopify nuvemshop comparativo plataforma ecommerce brasil"
-  },
-  {
-    "title": "Shopify vs Loja Integrada",
-    "description": "Comparativo de preços, checkout, PIX, boleto, frete e apps para quem vende no Brasil.",
-    "url": "shopify-vs-loja-integrada.html",
-    "tags": "shopify loja integrada comparativo plataforma checkout pix brasil"
-  },
-  {
-    "title": "Shopify Cart vs Checkout",
-    "description": "Diferenças entre a página do carrinho e a página de checkout no Shopify.",
-    "url": "shopify-carrinho-vs-checkout.html",
-    "tags": "shopify carrinho checkout diferença cart página"
-  },
-  {
-    "title": "Product Sets no Shopify",
-    "description": "Como agrupar produtos estratégicos para vender mais no Shopify.",
-    "url": "conjuntos-de-produtos-shopify.html",
-    "tags": "shopify product sets conjuntos produtos agrupamento venda"
+    "title": "Portfólio",
+    "description": "Projetos realizados em SEO para empresas B2B.",
+    "url": "portfolio",
+    "tags": "portfolio projetos seo b2b casos trabalhos"
   }
 ]
