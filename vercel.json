@@ -1,64 +1,17 @@
 {
+  "cleanUrls": true,
   "redirects": [
-    {
-      "source": "/about.html",
-      "destination": "/sobre.html",
-      "permanent": true
-    },
-    {
-      "source": "/work-with-me.html",
-      "destination": "/servicos.html",
-      "permanent": true
-    },
-    {
-      "source": "/faq.html",
-      "destination": "/perguntas-frequentes.html",
-      "permanent": true
-    },
-    {
-      "source": "/categories.html",
-      "destination": "/categorias.html",
-      "permanent": true
-    },
-    {
-      "source": "/category-shopify.html",
-      "destination": "/categoria-shopify.html",
-      "permanent": true
-    },
-    {
-      "source": "/category-template.html",
-      "destination": "/categoria-modelos.html",
-      "permanent": true
-    },
-    {
-      "source": "/shopify-cart-vs-checkout.html",
-      "destination": "/shopify-carrinho-vs-checkout.html",
-      "permanent": true
-    },
-    {
-      "source": "/product-sets-in-shopify.html",
-      "destination": "/conjuntos-de-produtos-shopify.html",
-      "permanent": true
-    },
-    {
-      "source": "/post-template.html",
-      "destination": "/modelo-post.html",
-      "permanent": true
-    },
-    {
-      "source": "/performance-shopify.html",
-      "destination": "/otimizacao-performance-shopify.html",
-      "permanent": true
-    },
-    {
-      "source": "/shopify-plus-headless.html",
-      "destination": "/shopify-plus-e-headless.html",
-      "permanent": true
-    },
-    {
-      "source": "/design-to-code-shopify.html",
-      "destination": "/design-para-codigo-shopify.html",
-      "permanent": true
-    }
+    { "source": "/about.html", "destination": "/sobre", "permanent": true },
+    { "source": "/work-with-me.html", "destination": "/servicos", "permanent": true },
+    { "source": "/faq.html", "destination": "/perguntas-frequentes", "permanent": true },
+    { "source": "/categories.html", "destination": "/categorias", "permanent": true },
+    { "source": "/category-shopify.html", "destination": "/categorias", "permanent": true },
+    { "source": "/category-template.html", "destination": "/categoria-modelos", "permanent": true },
+    { "source": "/shopify-cart-vs-checkout.html", "destination": "/shopify-carrinho-vs-checkout", "permanent": true },
+    { "source": "/product-sets-in-shopify.html", "destination": "/conjuntos-de-produtos-shopify", "permanent": true },
+    { "source": "/post-template.html", "destination": "/", "permanent": true },
+    { "source": "/performance-shopify.html", "destination": "/otimizacao-performance-shopify", "permanent": true },
+    { "source": "/shopify-plus-headless.html", "destination": "/shopify-plus-e-headless", "permanent": true },
+    { "source": "/design-to-code-shopify.html", "destination": "/design-para-codigo-shopify", "permanent": true }
   ]
 }

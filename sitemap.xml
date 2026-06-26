@@ -11,25 +11,25 @@
 
   <!-- Páginas principais -->
   <url>
-    <loc>https://www.renatovalentin.com.br/servicos.html</loc>
+    <loc>https://www.renatovalentin.com.br/servicos</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/sobre.html</loc>
+    <loc>https://www.renatovalentin.com.br/sobre</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/perguntas-frequentes.html</loc>
+    <loc>https://www.renatovalentin.com.br/perguntas-frequentes</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/busca.html</loc>
+    <loc>https://www.renatovalentin.com.br/busca</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
@@ -37,43 +37,43 @@
 
   <!-- Serviços SEO para B2B -->
   <url>
-    <loc>https://www.renatovalentin.com.br/consultoria-seo.html</loc>
+    <loc>https://www.renatovalentin.com.br/consultoria-seo</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/seo-de-conteudo-b2b.html</loc>
+    <loc>https://www.renatovalentin.com.br/seo-de-conteudo-b2b</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/seo-tecnico-b2b.html</loc>
+    <loc>https://www.renatovalentin.com.br/seo-tecnico-b2b</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/auditoria-seo.html</loc>
+    <loc>https://www.renatovalentin.com.br/auditoria-seo</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/consultor-seo-freelancer.html</loc>
+    <loc>https://www.renatovalentin.com.br/consultor-seo-freelancer</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/seo-para-saas.html</loc>
+    <loc>https://www.renatovalentin.com.br/seo-para-saas</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/seo-para-tecnologia.html</loc>
+    <loc>https://www.renatovalentin.com.br/seo-para-tecnologia</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -81,69 +81,69 @@
 
   <!-- Páginas MOFU — captação de consultas de SEO -->
   <url>
-    <loc>https://www.renatovalentin.com.br/seo-b2b.html</loc>
+    <loc>https://www.renatovalentin.com.br/seo-b2b</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/quanto-custa-consultoria-seo.html</loc>
+    <loc>https://www.renatovalentin.com.br/quanto-custa-consultoria-seo</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/agencia-seo-vs-consultor.html</loc>
+    <loc>https://www.renatovalentin.com.br/agencia-seo-vs-consultor</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/como-contratar-consultor-seo.html</loc>
+    <loc>https://www.renatovalentin.com.br/como-contratar-consultor-seo</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <!-- Blog e categorias -->
   <url>
-    <loc>https://www.renatovalentin.com.br/blog.html</loc>
+    <loc>https://www.renatovalentin.com.br/blog</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/seo.html</loc>
+    <loc>https://www.renatovalentin.com.br/seo</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <!-- Artigos do blog -->
   <url>
-    <loc>https://www.renatovalentin.com.br/estudo-de-caso-seo-pipedrive.html</loc>
+    <loc>https://www.renatovalentin.com.br/estudo-de-caso-seo-pipedrive</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/o-que-e-seo.html</loc>
+    <loc>https://www.renatovalentin.com.br/o-que-e-seo</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/seo-tecnico.html</loc>
+    <loc>https://www.renatovalentin.com.br/seo-tecnico</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/seo-offpage.html</loc>
+    <loc>https://www.renatovalentin.com.br/seo-offpage</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/seo-onpage.html</loc>
+    <loc>https://www.renatovalentin.com.br/seo-onpage</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -151,19 +151,19 @@
 
   <!-- Páginas legais -->
   <url>
-    <loc>https://www.renatovalentin.com.br/politica-de-privacidade.html</loc>
+    <loc>https://www.renatovalentin.com.br/politica-de-privacidade</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/politica-de-cookies.html</loc>
+    <loc>https://www.renatovalentin.com.br/politica-de-cookies</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
-    <loc>https://www.renatovalentin.com.br/termos-de-uso.html</loc>
+    <loc>https://www.renatovalentin.com.br/termos-de-uso</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
