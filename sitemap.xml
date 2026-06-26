@@ -79,6 +79,44 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Conceitos estratégicos e nichos — sem canibalização -->
+  <url>
+    <loc>https://www.renatovalentin.com.br/intencao-de-busca-b2b</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.renatovalentin.com.br/analise-de-concorrentes-seo</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.renatovalentin.com.br/seo-para-ciclo-de-venda-longo</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.renatovalentin.com.br/schema-markup-para-b2b</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.renatovalentin.com.br/seo-para-empresas-industriais-b2b</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.renatovalentin.com.br/seo-para-hrtech-b2b</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Alta prioridade: conceitos estratégicos sem canibalização -->
   <url>
     <loc>https://www.renatovalentin.com.br/link-building-para-b2b</loc>

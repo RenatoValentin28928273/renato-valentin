@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.renatovalentin.com.br/schema-markup-para-b2b">
+    <title>Schema Markup para Empresas B2B: Quais Usar e Como Implementar | Renato Valentin</title>
+    <meta name="description" content="O que é schema markup, quais tipos são mais relevantes para empresas B2B e como implementar JSON-LD para melhorar ranqueamento no Google e citabilidade nas IAs generativas.">
+    <link rel="stylesheet" href="styles.css">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Schema Markup para Empresas B2B: Quais Usar e Como Implementar",
+          "description": "Guia de schema markup para empresas B2B: os tipos mais relevantes (Organization, Person, Service, FAQPage, Article), como implementar em JSON-LD e como schema ajuda no GEO.",
+          "url": "https://www.renatovalentin.com.br/schema-markup-para-b2b",
+          "inLanguage": "pt-BR",
+          "datePublished": "2026-06-26",
+          "author": { "@type": "Person", "name": "Renato Valentin", "url": "https://www.renatovalentin.com.br", "jobTitle": "Consultor de SEO para Empresas B2B" }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "O que é schema markup em SEO?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Schema markup é um conjunto de dados estruturados adicionados ao HTML de uma página que ajudam mecanismos de busca e IAs a entender o conteúdo de forma mais precisa. Usando o vocabulário do Schema.org em formato JSON-LD, é possível identificar o tipo de conteúdo (artigo, serviço, pessoa, organização), o autor, as perguntas frequentes e outras informações que melhoram tanto o ranqueamento quanto a citabilidade por modelos de linguagem como ChatGPT e Perplexity." }
+            },
+            {
+              "@type": "Question",
+              "name": "Quais schemas são mais importantes para empresas B2B?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Para empresas B2B, os schemas mais relevantes são: Organization (identidade da empresa — nome, endereço, contato, redes sociais), Person (autoria de conteúdo — essencial para E-E-A-T e GEO), Service (páginas de serviço), Article (conteúdo editorial com autor), FAQPage (perguntas e respostas — altamente citado por IAs), HowTo (processos passo a passo) e BreadcrumbList (hierarquia de navegação). Todos em formato JSON-LD." }
+            },
+            {
+              "@type": "Question",
+              "name": "Schema markup melhora o ranqueamento no Google?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Schema markup não é um fator direto de ranqueamento, mas melhora a forma como o Google entende e exibe o conteúdo — o que pode aumentar o CTR. FAQPage pode gerar rich results (as perguntas aparecem expandidas no SERP). Article com Author pode gerar rich snippets de autoria. Mais importante para B2B atualmente: schema é um dos principais sinais que IAs generativas usam para identificar e citar fontes confiáveis." }
+            },
+            {
+              "@type": "Question",
+              "name": "Como implementar schema markup em JSON-LD?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Schema markup em JSON-LD é implementado dentro de uma tag <script type='application/json+ld'> no <head> da página. O formato JSON-LD é o recomendado pelo Google porque não mistura dados estruturados com o HTML visível — facilita manutenção e é mais fácil para os crawlers processarem. Ferramentas como o Rich Results Test do Google validam se a implementação está correta." }
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+</head>
+<body>
+    <div class="site-wrapper">
+        <header class="site-header">
+            <div class="container site-nav-main">
+                <nav class="site-nav">
+                    <div class="site-nav-left">
+                        <a class="site-nav-logo" href="/">Renato Valentin</a>
+                        <ul class="nav">
+                            <li><a href="/">Início</a></li>
+                            <li class="has-submenu">
+                            <a href="servicos">Serviços</a>
+                            <button class="submenu-toggle" aria-label="Abrir menu de serviços" aria-expanded="false">
+                                <svg width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+<ul class="submenu">
+                                <li class="submenu-group-label">SEO para B2B</li>
+                                <li><a href="consultoria-seo">Consultoria e Estratégia</a></li>
+                                <li><a href="seo-de-conteudo-b2b">SEO de Conteúdo</a></li>
+                                <li><a href="seo-tecnico-b2b">SEO Técnico</a></li>
+                            </ul>
+                        </li>
+                            <li><a href="blog">Blog</a></li>
+                            <li><a href="sobre">Sobre</a></li>
+                        </ul>
+                    </div>
+                    <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                        <span></span><span></span><span></span>
+                    </button>
+                    <a class="nav-linkedin-btn" href="https://www.youtube.com/@renatob2b-u6p" target="_blank" rel="noreferrer" aria-label="YouTube de Renato Valentin"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+                    <a class="nav-search-btn" href="busca" aria-label="Buscar no site"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></a>
+                </nav>
+            </div>
+        </header>
+
+        <main>
+            <section class="hero post-hero">
+                <div class="container hero-inner">
+                    <div class="hero-copy">
+                        <p class="eyebrow">SEO técnico e GEO</p>
+                        <h1>Schema Markup para Empresas B2B: Quais Usar e Como Implementar</h1>
+                        <p>Os dados estruturados que ajudam o Google a entender melhor o seu site — e que as IAs generativas usam para decidir quais fontes citar nas respostas.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="homepage-section">
+                <div class="container section-inner post-content">
+
+                    <section class="answer-card">
+                        <h2>O que é schema markup</h2>
+                        <p><strong>Schema markup</strong> é um conjunto de dados estruturados adicionados ao HTML que ajudam mecanismos de busca e IAs a entender o conteúdo de forma mais precisa. Usando o vocabulário do Schema.org em formato <code>JSON-LD</code>, é possível identificar o tipo de conteúdo, o autor, as perguntas frequentes e outras informações que melhoram tanto o ranqueamento quanto a citabilidade por modelos como ChatGPT, Perplexity e Gemini.</p>
+                    </section>
+
+                    <h2>Por que schema markup é especialmente importante para B2B</h2>
+                    <p>Em B2B, dois fatores tornam schema markup mais crítico do que em B2C:</p>
+                    <ul class="check-list">
+                        <li><strong>E-E-A-T e credibilidade:</strong> o Google avalia expertise e autoridade com mais rigor em buscas de alto impacto — que é exatamente o perfil das buscas B2B. Schema de autoria (<code>Person</code> com credenciais) sinaliza que o conteúdo tem um especialista identificável por trás.</li>
+                        <li><strong>GEO e citação por IAs:</strong> IAs generativas usam dados estruturados para extrair e citar informações. <code>FAQPage</code>, <code>HowTo</code> e <code>Article</code> com autor claro são os schemas mais citados pelos modelos de linguagem nas respostas a perguntas B2B.</li>
+                    </ul>
+
+                    <h2>Os schemas mais relevantes para empresas B2B</h2>
+
+                    <h3>Organization — identidade da empresa</h3>
+                    <p>Define quem é a empresa: nome, URL, logotipo, endereço, e-mail, telefone, redes sociais. Deve estar no site inteiro (geralmente no layout global). Essencial para que o Google e as IAs associem o conteúdo a uma entidade verificável.</p>
+
+                    <h3>Person — autoria de especialista</h3>
+                    <p>Associa o conteúdo a um especialista identificável. Os campos mais importantes para B2B e GEO: <code>name</code>, <code>jobTitle</code>, <code>url</code>, <code>knowsAbout</code> (array de tópicos de especialidade) e <code>sameAs</code> (perfis verificáveis como LinkedIn, YouTube). Este schema é o principal sinal de <a href="e-e-a-t-para-empresas-b2b">E-E-A-T</a> que IAs como ChatGPT e Perplexity usam para validar fontes.</p>
+
+                    <h3>Service — páginas de serviço</h3>
+                    <p>Descreve um serviço oferecido: nome, descrição, provedor, tipo de serviço, área de atuação. Deve estar em todas as páginas de serviço. Inclui o <code>provider</code> linkado ao schema de <code>Person</code> ou <code>Organization</code> — criando a relação entre o serviço e quem o oferece.</p>
+
+                    <h3>Article — conteúdo editorial</h3>
+                    <p>Define um artigo ou post de blog: título, descrição, URL, data de publicação, autor. O campo <code>author</code> linkado ao schema de <code>Person</code> é fundamental — é o sinal que associa o conteúdo ao especialista para fins de E-E-A-T e GEO. Deve estar em todos os artigos e guias.</p>
+
+                    <h3>FAQPage — perguntas e respostas</h3>
+                    <p>O schema mais citado por IAs generativas. Cada par de pergunta/resposta é estruturado de forma que modelos de linguagem conseguem extrair e citar diretamente. A diferença está na formulação das perguntas: devem ser escritas em linguagem natural, exatamente como o usuário digitaria em uma IA — não como titles de SEO otimizados.</p>
+
+                    <h3>HowTo — processos passo a passo</h3>
+                    <p>Define um processo com etapas numeradas: nome, descrição e passos. Altamente citado por IAs quando alguém pergunta "como fazer". Para B2B, ideal para guias de processo como "como fazer keyword research para B2B" ou "como implementar SEO técnico".</p>
+
+                    <h3>BreadcrumbList — hierarquia de navegação</h3>
+                    <p>Define a trilha de navegação da página. Melhora a exibição no SERP (aparece abaixo do title) e ajuda o Google a entender a arquitetura do site. Especialmente útil em sites B2B com múltiplos níveis de conteúdo.</p>
+
+                    <h2>Como implementar: JSON-LD no head da página</h2>
+                    <p>Schema markup deve ser implementado em formato <code>JSON-LD</code> dentro da tag <code>&lt;script type="application/ld+json"&gt;</code> no <code>&lt;head&gt;</code>. O formato JSON-LD é o recomendado pelo Google porque não mistura dados estruturados com o HTML visível e é mais fácil para crawlers e modelos de linguagem processarem.</p>
+
+                    <h2>Como validar a implementação</h2>
+                    <ul class="check-list">
+                        <li><strong>Rich Results Test</strong> (search.google.com/test/rich-results): valida se a implementação está correta e quais rich results são elegíveis.</li>
+                        <li><strong>Schema Markup Validator</strong> (validator.schema.org): verifica se o JSON-LD está semanticamente correto segundo o vocabulário do Schema.org.</li>
+                        <li><strong>Google Search Console</strong>: relatório de "Aprimoramentos" mostra erros e avisos em schemas detectados no site.</li>
+                    </ul>
+
+                    <div class="faq-list">
+                        <details class="faq-item" open>
+                            <summary>Schema markup melhora o ranqueamento no Google?</summary>
+                            <p>Não é um fator direto de ranqueamento, mas melhora como o Google entende e exibe o conteúdo — o que pode aumentar o CTR com rich results. Para B2B, o impacto mais relevante atualmente é no <a href="geo-otimizacao-para-ias">GEO</a>: schema é um dos principais sinais que IAs generativas usam para identificar e citar fontes confiáveis.</p>
+                        </details>
+                        <details class="faq-item">
+                            <summary>Qual a diferença entre JSON-LD, Microdata e RDFa?</summary>
+                            <p>São três formas de implementar schema markup. JSON-LD é o formato recomendado pelo Google — fica separado do HTML, é mais fácil de manter e mais eficiente para processamento por crawlers e IAs. Microdata e RDFa ficam integrados ao HTML da página e são mais difíceis de manter. Para qualquer implementação nova em sites B2B, use exclusivamente JSON-LD.</p>
+                        </details>
+                        <details class="faq-item">
+                            <summary>Schema markup faz parte do SEO técnico para B2B?</summary>
+                            <p>Sim — é parte da auditoria de dados estruturados incluída no <a href="seo-tecnico-b2b">SEO técnico para B2B</a>. A implementação correta de schema em todas as páginas estratégicas (serviços, artigos, FAQ) é uma das otimizações com maior relação impacto/esforço, especialmente para posicionamento em IAs.</p>
+                        </details>
+                    </div>
+
+                    <div class="homepage-section cta-section" style="margin-top:3rem;padding:0">
+                        <div>
+                            <h2>Quer implementar schema markup nas páginas da sua empresa B2B?</h2>
+                            <p class="cta-copy">Schema markup faz parte do <a href="seo-tecnico-b2b">SEO técnico para B2B</a> e do diagnóstico de <a href="auditoria-seo">auditoria de SEO</a>.</p>
+                            <div class="button-group">
+                                <a class="hero-cta" href="https://wa.me/5542999655157?text=Ol%C3%A1%2C%20Renato.%20Quero%20implementar%20schema%20markup%20no%20site%20da%20minha%20empresa%20B2B." target="_blank" rel="noreferrer">Conversar no WhatsApp</a>
+                                <a class="hero-cta outline" href="seo-tecnico-b2b">Ver SEO Técnico para B2B</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+        </main>
+
+        <footer class="site-footer">
+            <div class="container site-footer-content">
+                <div class="copyright"><a href="/">Renato Valentin</a> © 2026</div>
+                <nav class="site-footer-nav">
+                    <a href="sobre">Sobre</a><a href="servicos">Serviços</a><a href="perguntas-frequentes">Perguntas</a>
+                    <a href="politica-de-privacidade">Privacidade</a><a href="politica-de-cookies">Cookies</a>
+                    <a href="termos-de-uso">Termos</a><a href="sitemap.xml">Sitemap</a><a href="llms.txt">LLMs</a>
+                </nav>
+            </div>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
